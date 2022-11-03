@@ -1,0 +1,20 @@
+[
+  {
+    "title": "asdasd",
+    "price": 123,
+    "thumbnail": "img",
+    "id": 1
+  },
+  {
+    "title": "jkhkjhjk",
+    "price": 4573689,
+    "thumbnail": "img",
+    "id": 2
+  },
+  {
+    "title": "opiup",
+    "price": 23443,
+    "thumbnail": "img",
+    "id": 3
+  }
+]
