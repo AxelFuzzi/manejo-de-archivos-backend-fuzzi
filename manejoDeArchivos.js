@@ -100,9 +100,9 @@ class Producto {
 
 const objContenedor = new Contenedor('./productos.txt');
 
-const producto1 = new Producto('asdasd', 123, 'img')
-const producto2 = new Producto('jkhkjhjk',4573689 ,'img')
-const producto3 = new Producto('opiup',23443 ,'img')
+const producto1 = new Producto('escuadra', 8765, 'img')
+const producto2 = new Producto('calculadora',457 ,'img')
+const producto3 = new Producto('globo terraqueo',2343 ,'img')
 
 objContenedor.save(producto1)
 objContenedor.save(producto2)

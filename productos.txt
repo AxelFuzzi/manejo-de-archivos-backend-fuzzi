@@ -1,19 +1,19 @@
 [
   {
-    "title": "asdasd",
-    "price": 123,
+    "title": "escuadra",
+    "price": 8765,
     "thumbnail": "img",
     "id": 1
   },
   {
-    "title": "jkhkjhjk",
-    "price": 4573689,
+    "title": "calculadora",
+    "price": 457,
     "thumbnail": "img",
     "id": 2
   },
   {
-    "title": "opiup",
-    "price": 23443,
+    "title": "globo terraqueo",
+    "price": 2343,
     "thumbnail": "img",
     "id": 3
   }
